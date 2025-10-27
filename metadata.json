@@ -1,5 +1,7 @@
 {
-  "name": "DJ Logo Stylizer",
+  "name": "Logo Reloaded",
   "description": "Transform your DJ logo into various artistic styles using the Gemini API.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "geolocation"
+  ]
 }
